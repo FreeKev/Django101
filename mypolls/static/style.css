@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  display: block;
+}
+
+h1 {
+  color: skyblue;
+  background-color: grey;
+  text-align: center;
+}
+
+nav {
+  width: 100%;
+  height: 30px;
+  background-color: grey;
+}
+
+nav a {
+  color: #fff;
+  font-size: 24px;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+
+nav a:hover {
+  color: hotpink;
+}
